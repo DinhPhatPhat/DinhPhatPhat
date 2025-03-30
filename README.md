@@ -1,5 +1,5 @@
 ## Hello, welcome to my profile! 👋
-# My name is Phat and I am a Web Applications Developer with a strong focus on backend development. Currently, I am a senior at Ton Duc Thang University in Ho Chi Minh City.
++ My name is Phat and I am a Web Applications Developer with a strong focus on backend development. Currently, I am a senior at Ton Duc Thang University in Ho Chi Minh City.
 # About me
 <!--
 **DinhPhatPhat/DinhPhatPhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

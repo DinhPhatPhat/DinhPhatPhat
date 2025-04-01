@@ -62,9 +62,11 @@
  <a href="mailto:dinhphatphat.work@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="42" alt="dinhphatphat.work@gmail.com"  />
 </a>
+  <img width="12" />
  <a href="https://www.facebook.com/phatfioraa/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" height="42" alt="https://www.facebook.com/phatfioraa/"  />
 </a>
+  <img width="12" />
  <a href="https://www.instagram.com/phatphatdinh/">
   <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="42" alt="https://www.instagram.com/phatphatdinh/"  />
 </a>

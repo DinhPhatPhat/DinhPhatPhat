@@ -1,6 +1,13 @@
 ## Hello, welcome to my profile! 👋
 + My name is Phat and I am a Web Applications Developer with a strong focus on backend development. Currently, I am a senior at Ton Duc Thang University in Ho Chi Minh City.
 # About me
+
+## My Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-Framework-green" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MySQL-Database-blue" alt="MySQL" />
+</p>
+
 <!--
 **DinhPhatPhat/DinhPhatPhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

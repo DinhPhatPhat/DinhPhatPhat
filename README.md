@@ -13,6 +13,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />      
 </div>
 
@@ -44,8 +46,28 @@
   <img width="12" />        
 </div>
 
+## Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" alt="vs logo" />
+  <img width="12" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
+  <img width="12" />     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="github logo" />
+</div>
+
 ###
 <div align="center">
  <a href="mailto:dinhphatphat.work@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="dinhphatphat.work@gmail.com"  />
 </a>
+  <img width="12" /> 
+ <a href="https://www.facebook.com/phatfioraa/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="42" height="30" alt="https://www.facebook.com/phatfioraa/"  />
+</a>
+  <img width="12" /> 
+ <a href="https://www.instagram.com/phatphatdinh/">
+  <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="42" height="30" alt="https://www.instagram.com/phatphatdinh/"  />
+</a>
+</div>

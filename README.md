@@ -1,11 +1,11 @@
 ## Hello, welcome to my profile! 👋
 + My name is Phat and I am a Web Applications Developer with a strong focus on backend development.
-# About me
+## About me
 + 📚 Currently, I am a senior at Ton Duc Thang University in Ho Chi Minh City. My strengths are back-end web development with Spring Boot, Express.js, and .NET.
 + ✨ I am a friendly guy with strong self-learning abilities. My hobbies include researching political and economic situations.
   
 ### I code with
-## Front-end
+### Front-end
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />      
 </div>
 
-## Back-end
+### Back-end
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
   <img width="12" />
@@ -38,9 +38,9 @@
 
 ## Deploy
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
   <img width="12" />        
 </div>
 

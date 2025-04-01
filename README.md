@@ -3,11 +3,7 @@
 # About me
 
 ## My Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-Framework-green" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/MySQL-Database-blue" alt="MySQL" />
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **DinhPhatPhat/DinhPhatPhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
